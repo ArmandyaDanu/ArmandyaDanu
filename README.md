@@ -42,8 +42,8 @@ data-driven economic analysis, quantitative finance, and public policy.
 
 ## 📈 GitHub Stats
 
-![Armandya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArmandyaDanu&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandyaDanu&layout=compact&theme=tokyonight&hide_border=true)
+![Armandya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArmandyaDanu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Streak Stats](https://streak-stats.demolab.com?user=ArmandyaDanu&theme=tokyonight&hide_border=true)
 
 ---
 
