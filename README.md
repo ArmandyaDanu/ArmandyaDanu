@@ -15,11 +15,13 @@ data-driven economic analysis, quantitative finance, and public policy.
 
 ## 📊 Featured Projects
 
-| Project | Description | Tools |
-|---------|-------------|-------|
-| [Eksplorasi Makroekonomi Indonesia](https://github.com/ArmandyaDanu/econ-portfolio/blob/main/notebooks/01_eksplorasi_data.ipynb) | GDP, inflasi, pengangguran 2000–2022 | Python, pandas, matplotlib |
-| [Phillips Curve Indonesia](https://github.com/ArmandyaDanu/econ-portfolio/blob/main/notebooks/02_phillips_curve_ols.ipynb) | OLS regression + uji asumsi ekonometrika | statsmodels, seaborn |
-| [ARIMA Forecasting Inflasi](https://github.com/ArmandyaDanu/econ-portfolio/blob/main/notebooks/03_arima_forecasting_inflasi.ipynb) | Time series forecast inflasi 2025 | ARIMA, scikit-learn |
+| No | Judul | Topik | Tools | Notebook |
+|----|-------|-------|-------|----------|
+| 01 | Eksplorasi Makroekonomi Indonesia | Tren GDP, inflasi, pengangguran 2000–2022 | pandas, matplotlib | [Buka ↗](https://colab.research.google.com/github/ArmandyaDanu/econ-portfolio/blob/main/notebooks/01_eksplorasi_data.ipynb) |
+| 02 | Phillips Curve Indonesia | Regresi OLS inflasi vs pengangguran | statsmodels, seaborn | [Buka ↗](https://colab.research.google.com/github/ArmandyaDanu/econ-portfolio/blob/main/notebooks/02_phillips_curve_ols.ipynb) |
+| 03 | ARIMA Forecasting Inflasi | Time series forecast inflasi 2025 | ARIMA, scikit-learn | [Buka ↗](https://colab.research.google.com/github/ArmandyaDanu/econ-portfolio/blob/main/notebooks/03_arima_forecasting_inflasi.ipynb) |
+| 04 | DCF Valuation UNVR | Equity research + sensitivity analysis | yfinance, numpy | [Buka ↗](https://colab.research.google.com/github/ArmandyaDanu/econ-portfolio/blob/main/notebooks/04_unvr_dcf_valuation.ipynb) |
+| 05 | Komparasi Bank Big-3 | Rasio keuangan + valuasi BBCA, BMRI, BBRI | pandas, seaborn | [Buka ↗](https://colab.research.google.com/github/ArmandyaDanu/econ-portfolio/blob/main/notebooks/05_banking_comparison.ipynb) |
 
 ---
 
